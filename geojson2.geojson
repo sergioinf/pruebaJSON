@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Nombre": "Area1",
+        "m2": 123,
+        "Cultivado": "Si"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -34,7 +38,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Nombre": "Area2",
+        "m2": 164,
+        "Cultivado": "Si"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -65,7 +73,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Nombre": "Area3",
+        "m2": 5789,
+        "Cultivado": "No"
+      },
       "geometry": {
         "coordinates": [
           [
